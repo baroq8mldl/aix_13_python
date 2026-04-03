@@ -1,7 +1,7 @@
 from urllib import request
 from bs4 import BeautifulSoup
 
-#삼성전자 주가 추출
+#네이버 분야별 주요뉴스
 
 url = "https://news.naver.com/section/105"
 target = request.urlopen(url)#접속정보 등록
