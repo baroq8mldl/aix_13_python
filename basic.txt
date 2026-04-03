@@ -1,0 +1,18 @@
+Exception 약한 오류
+Error 강한 오류
+
+밤샘 1주일
+-> 기절 -> 깨움 -> 일어남 -> Exception
+-> 기절 -> 깨움 -> 사망 ->Error
+
+
+지뢰의 좌표를 입력하세요(0~9,0~9)  x,y>> 3,4
+ X X X X X X X X
+ X X X X X X X X
+ X X X 0 1 X X X
+ X X X X X 9 X X
+ X X X X X X X X
+...
+게임종료.
+총시도횟수 30회
+
